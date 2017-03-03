@@ -1,0 +1,6 @@
+framework module Pods_HFTV {
+  umbrella header "Pods-HFTV-umbrella.h"
+
+  export *
+  module * { export * }
+}

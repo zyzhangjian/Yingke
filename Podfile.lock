@@ -1,0 +1,73 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - IQKeyboardManager (4.0.4)
+  - JPFPSStatus (0.1)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - pop (1.0.9)
+  - RSKImageCropper (1.5.1)
+  - SDCycleScrollView (1.64):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - WMPageController (2.2.1)
+
+DEPENDENCIES:
+  - AFNetworking (= 3.1.0)
+  - BlocksKit (~> 2.2.5)
+  - IQKeyboardManager (= 4.0.4)
+  - JPFPSStatus (~> 0.1)
+  - MJExtension (= 3.0.13)
+  - MJRefresh (= 3.1.12)
+  - pop (~> 1.0.9)
+  - RSKImageCropper (= 1.5.1)
+  - SDCycleScrollView
+  - SDWebImage (= 3.8.1)
+  - WMPageController
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  IQKeyboardManager: 4a6f83b540283c2645aaeba2bd8dc0f09b5c77f8
+  JPFPSStatus: 4467a17488382e4c1700bd9d18c92ae581fd6305
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  RSKImageCropper: edd65fedb3734332818deb139906d6b7f54b8a44
+  SDCycleScrollView: 806fedb9342ab03b58b84442f985517b42c7cbb7
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  WMPageController: 181bcc9b1fb7c9c3466bff66012552953a547d28
+
+PODFILE CHECKSUM: bc0e36c1f5901c2407bb8524c51dccf96720922c
+
+COCOAPODS: 1.0.1

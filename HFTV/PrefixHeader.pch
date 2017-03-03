@@ -1,0 +1,52 @@
+//
+//  PrefixHeader.pch
+//  HFTV
+//
+//  Created by Mr.Zhang on 2017/1/6.
+//  Copyright © 2017年 Mr.Zhang. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIImage+XCExtension.h"
+
+#import "UIView+UiViewController.h"
+
+#import "Header.h"
+
+#import "UIView+XCExtension.h"
+
+#import "UIImageView+XCExtension.h"
+
+#import "NSString+XCExtension.h"
+
+#import "UIImageView+WebCache.h"
+
+#import "UIButton+WebCache.h"
+
+#import "BlocksKit+UIKit.h"
+
+#import "UIViewExt.h"
+
+#import "NSString+XCExtension.h"
+
+#import "NSString+RemoveEmoji.h"
+
+#import "WMPageController.h"
+
+#import "HFNetworkTools.h"
+
+#import "MJExtension.h"
+
+#import <IJKMediaFramework/IJKMediaFramework.h>
+
+#import <MJRefresh/MJRefresh.h>
+
+#import "BaseNavController.h"
+
+#import "BaseViewController.h"
+
+#import "AppDelegate.h"
+
+#endif /* PrefixHeader_pch */
